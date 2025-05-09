@@ -63,6 +63,12 @@ answer the following questions:
 **This symposium aim to answer the following questions:**	
 - TODO
 
+# Goals
+
+This symposium will run for a half day, consisting of two sessions. In the first session, there will be opening remarks followed by a keynote from an expert in the field of workflows. Then, there will be a break of 30 minutes. In the second session, there will be three invited talks of 30 minutes each followed by a moderated discussion between the audience with the speakers.
+
+The coffee and lunch breaks will follow the SC conference schedule. These breaks will provide an opportunity for the attendees, speakers, and organizers to interact and have fruitful discussions revolving around the role of AI in extreme-scale workflows.
+
 ## Tentative Schedule
 
 | Start Time | End Time | Speaker | Title |
