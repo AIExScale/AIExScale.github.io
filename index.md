@@ -44,6 +44,9 @@
         Held in conjunction with <a href="https://sc25.supercomputing.org/" target="_blank">The International Conference for High Performance
 Computing, Networking, Storage, and Analysis 2025</a> in St-Louis, Missouri.
     </p>
+    <p class="subtitle">
+        Date: November 21, 2025
+    </p>
     <!-- Container for markdown content -->
     <div class="markdown-content">
         <!-- Markdown content will render here -->
