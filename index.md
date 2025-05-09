@@ -61,7 +61,12 @@ This symposium will actively drive discussion and aim to
 answer the following questions:
 
 **This symposium aim to answer the following questions:**	
-- TODO
+- AI workflows: Highlighting opportunities of AI workflows for science.
+- Integration challenges: Discussing challenges associated with integrating traditional HPC workflows and AI pipelines. 
+- Current landscape: Presenting the ongoing efforts in the workflows community to develop and support AI workflows. 
+- Emerging workflows: Highlighting novel use cases of AI workflows. 
+- Large language models (LLMs): Examining the potential roles and applications of LLMs in the context of AI workflows. 
+- Future directions: Engaging in a moderated discussion with the audience on the roadmap for AI workflows, addressing both technical and community-driven priorities. 
 
 # Goals
 
@@ -69,11 +74,9 @@ This symposium will run for a half day, consisting of two sessions. In the first
 
 The coffee and lunch breaks will follow the SC conference schedule. These breaks will provide an opportunity for the attendees, speakers, and organizers to interact and have fruitful discussions revolving around the role of AI in extreme-scale workflows.
 
-## Tentative Schedule
+## Program
 
-| Start Time | End Time | Speaker | Title |
-|------------|---------|---------|-------|
-| TODO | TODO | TODO | TODO |
+TBA
 
 # Symposium Co-chairs
 - Orçun Yildiz (Argonne National Laboratory, USA) oyildiz at anl.gov
