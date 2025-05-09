@@ -41,7 +41,7 @@
 <body>
     <h1 class="title">First International Symposium on Artificial Intelligence and Extreme-Scale Workflows</h1>
     <p class="subtitle">
-        eld with <a href="https://sc25.supercomputing.org/" target="_blank">The International Conference for High Performance
+        Held in conjunction with <a href="https://sc25.supercomputing.org/" target="_blank">The International Conference for High Performance
 Computing, Networking, Storage, and Analysis 2025</a> in St-Louis, Missouri.
     </p>
     <!-- Container for markdown content -->
@@ -67,7 +67,7 @@ answer the following questions:
 
 | Start Time | End Time | Speaker | Title |
 |------------|---------|---------|-------|
-
+| TODO | TODO | TODO | TODO |
 
 # Symposium Co-chairs
 - Orçun Yildiz (Argonne National Laboratory, USA) oyildiz at anl.gov
