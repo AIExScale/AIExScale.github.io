@@ -56,6 +56,8 @@ Computing, Networking, Storage, and Analysis 2025</a> in St-Louis, Missouri.
 </body>
 </html>
 
+![Symposium](aiexscale.png)
+
 # Description
 
 Extreme-scale workflows play a crucial role in increasing scientific productivity by helping scientists orchestrate today’s scientific campaigns. With the recent developments in artificial intelligence (AI) and its growing application in scientific campaigns, we started to witness the integration of AI tasks into scientific workflows (workflows for AI). There can also be significant benefits for existing scientific workflows when augmenting them with AI (AI for workflows). Given the early stage of these emerging topics, more effort is needed to outline the role of AI in scientific workflows. The 1st International Symposium on Artificial Intelligence and Extreme-Scale Workflows will provide the scientific community with a dedicated platform for discussing current efforts, opportunities, and open challenges in AI and scientific workflows. This symposium features invited talks given by the leaders in the field and aims to further advance AI workflows by fostering new connections and ideas among the workshop participants.
