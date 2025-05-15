@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 title: "AIExScale"
 description: "First International Symposium on Artificial Intelligence and Extreme-Scale Workflows"
 show_downloads: false
+is_project_page: false
