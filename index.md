@@ -2,6 +2,7 @@
 layout: default
 title: "First International Symposium on Artificial Intelligence and Extreme-Scale Workflows"
 ---
+# [AIExScale 2025](https://sc25.conference-program.com/session/?sess=sess213)
 
 # First International Symposium on Artificial Intelligence and Extreme-Scale Workflows
 
