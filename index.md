@@ -38,7 +38,7 @@ The main goal of this workshop is to review the current efforts of AI workflows 
 ### 8:35 AM - 09:30 AM - <a href="/talks/keynote-tbd">Keynote: TBD</a>
 <a href="/speakers/ian-foster" class="speaker-name">Ian Foster</a>
 
-### 09:30 AM - 10:00 AM - <a href="/talks/invited-talk-1">Invited Talk: TBD</a>
+### 09:30 AM - 10:00 AM - <a href="/talks/invited-talk-1">Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures?</a>
 <a href="/speakers/debbie-bard" class="speaker-name">Debbie Bard</a>
 
 ### 10:00 AM - 10:30 AM - Break

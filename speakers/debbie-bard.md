@@ -11,7 +11,7 @@ title: "Debbie Bard - AIExScale 2025"
   </div>
   <div style="flex: 1;">
     <h2>Biography</h2>
-    <p>Dr. Debbie Bard is a physicist and data scientist with 20 years of experience in scientific computing as both a physicist and supercomputing expert. Her career spans research in particle physics, cosmology, AI, and computing, with a common theme of using supercomputing for scalable data analytics. Bard heads the Science Engagement and Workflows Department at NERSC. She also leads the Superfacility initiative at Berkeley Lab, a cross-disciplinary project to build supercomputing infrastructure for experimental facilities across the US Department of Energy.</p>
+    <p>Dr. Debbie Bard is a physicist and data scientist with 20 years experience in scientific computing, working in particle physics, cosmology and HPC. She leads the Science Engagement and Workflows department at the National Energy Research Scientific Computing center (NERSC), responsible for delivering HPC, data and AI services for NERSC’s 11,000 users, including user support and engagement. She is particularly interested in multi-facility science and integrating experimental facilities with HPC. Debbie has led multiple complex cross-institutional projects, for example the Superfacility initiative at Lawrence Berkeley National Lab and the DOE’s Integrated Research infrastructure program.</p>  
     
     <h2>Contact</h2>
     <ul>
