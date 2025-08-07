@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Invited Talk: TBD - AIExScale 2025"
+title: "Invited Talk: Intelligent Workflows at Scale: AI-Driven Exploration of Cosmological Simulations - AIExScale 2025"
 ---
 
-# Invited Talk: TBD
+# Invited Talk: Intelligent Workflows at Scale: AI-Driven Exploration of Cosmological Simulations
 
 **Speaker:** [Katrin Heitmann](/speakers/katrin-heitmann)  
 **Time:** 11:00 AM - 11:30 AM  
@@ -11,11 +11,12 @@ title: "Invited Talk: TBD - AIExScale 2025"
 
 ## Abstract
 
-TBD
+Understanding the evolution of the Universe from its earliest moments to the present is one of the central goals of modern physics. Achieving this requires not only next-generation observational instruments but also the ability to simulate the Universe at extreme scale. These large-scale cosmological simulations, run on leadership-class supercomputers, generate massive datasets and require complex, multi-step workflows for analysis and interpretation.
+In this talk, I will present a recent suite of simulations performed with the Hardware/Hybrid Accelerated Cosmology Code (HACC), a highly scalable code designed for performance on heterogeneous architectures. To support analysis at scale, we developed OpenCosmo, a cross-platform workflow system that orchestrates simulation data processing across multiple supercomputing environments. Building on this foundation, we are now integrating an agentic AI system that simplifies and automates intricate workflows, supports adaptive exploration, and enables more intuitive human–machine interaction with the data. While still in early stages, this integration of HPC, workflow technologies, and AI illustrates the emerging paradigm of intelligent scientific computing and its potential to accelerate discovery in complex domains like cosmology.
 
 ## Speaker Bio
 
-Dr. Katrin Heitmann is the deputy director of Argonne’s High Energy Physics division, and a physicist and computational scientist at Argonne National Laboratory. She is also a Senior Associate for the Kavli Institute for Cosmological Physics at the University of Chicago and a member of NAISE at Northwestern. Before joining Argonne, Katrin was a staff member at Los Alamos National Laboratory. Her research currently focuses on computational cosmology, in particular on trying to understand the causes for the accelerated expansion of the Universe. She is responsible for large simulation campaigns with HACC and for the tools in the associated analysis library, CosmoTools. Katrin is a member of several major astrophysical surveys that aim to shed light on this question and was until recently the Spokesperson for the LSST Dark Energy Science Collaboration.
+Katrin Heitmann is a cosmologist whose research involves large-scale computer simulations of the Universe, focused on understanding its distribution of matter and rate of expansion. She is a Deputy Division Director of High Energy Physics at the Argonne National Laboratory, the former spokesperson of the LSST Dark Energy Science Collaboration, a senior associate of the Kavli Institute for Cosmological Physics at the University of Chicago, an affiliate of the Northwestern-Argonne Institute of Science and Engineering at Northwestern University, and a senior member of the NSF-Simons SkAI Institute.
 
 ---
 

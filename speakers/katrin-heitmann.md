@@ -11,7 +11,7 @@ title: "Katrin Heitmann - AIExScale 2025"
   </div>
   <div style="flex: 1;">
     <h2>Biography</h2>
-    <p>Dr. Katrin Heitmann is the deputy director of Argonne’s High Energy Physics division, and a physicist and computational scientist at Argonne National Laboratory. She is also a Senior Associate for the Kavli Institute for Cosmological Physics at the University of Chicago and a member of NAISE at Northwestern. Before joining Argonne, Katrin was a staff member at Los Alamos National Laboratory. Her research currently focuses on computational cosmology, in particular on trying to understand the causes for the accelerated expansion of the Universe. She is responsible for large simulation campaigns with HACC and for the tools in the associated analysis library, CosmoTools. Katrin is a member of several major astrophysical surveys that aim to shed light on this question and was until recently the Spokesperson for the LSST Dark Energy Science Collaboration.</p>
+    <p>Katrin Heitmann is a cosmologist whose research involves large-scale computer simulations of the Universe, focused on understanding its distribution of matter and rate of expansion. She is a Deputy Division Director of High Energy Physics at the Argonne National Laboratory, the former spokesperson of the LSST Dark Energy Science Collaboration, a senior associate of the Kavli Institute for Cosmological Physics at the University of Chicago, an affiliate of the Northwestern-Argonne Institute of Science and Engineering at Northwestern University, and a senior member of the NSF-Simons SkAI Institute.</p>
     
     <h2>Contact</h2>
     <ul>

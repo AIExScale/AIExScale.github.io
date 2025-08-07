@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Invited Talk: TBD - AIExScale 2025"
+title: "Invited Talk: AI-Ready Scientific Workflows at Scale: Bridging Data, Infrastructure, and Automation - AIExScale 2025"
 ---
 
 # Invited Talk: AI-Ready Scientific Workflows at Scale: Bridging Data, Infrastructure, and Automation

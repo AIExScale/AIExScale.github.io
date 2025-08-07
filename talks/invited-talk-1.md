@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Invited Talk: TBD - AIExScale 2025"
+title: "Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures? - AIExScale 2025"
 ---
 
-# Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures? 
+# Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures?
 
 **Speaker:** [Debbie Bard](/speakers/debbie-bard)  
 **Time:** 09:30 AM - 10:00 AM  

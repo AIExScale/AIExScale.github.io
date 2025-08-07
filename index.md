@@ -23,7 +23,7 @@ Extreme-scale workflows play a crucial role in increasing scientific productivit
 - Future directions: Engaging in a moderated discussion with the audience on the roadmap for AI workflows, addressing both technical and community-driven priorities. 
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="aiexscale.png" alt="AIExScale Symposium" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="aiexscale-compressed.jpg" alt="AIExScale Symposium" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 # Goals {#goals}
@@ -46,7 +46,7 @@ The main goal of this workshop is to review the current efforts of AI workflows 
 ### 10:30 AM - 11:00 AM - <a href="/talks/invited-talk-2">Invited Talk: AI-Ready Scientific Workflows at Scale: Bridging Data, Infrastructure, and Automation</a>
 <a href="/speakers/rafael-ferreira-da-silva" class="speaker-name">Rafael Ferreira da Silva</a>
 
-### 11:00 AM - 11:30 AM - <a href="/talks/invited-talk-3">Invited Talk: TBD</a>
+### 11:00 AM - 11:30 AM - <a href="/talks/invited-talk-3">Invited Talk: Intelligent Workflows at Scale: AI-Driven Exploration of Cosmological Simulations</a>
 <a href="/speakers/katrin-heitmann" class="speaker-name">Katrin Heitmann</a>
 
 ### 11:30 AM - 12:20 PM - <a href="/talks/moderated-discussion">Moderated Discussion</a>
