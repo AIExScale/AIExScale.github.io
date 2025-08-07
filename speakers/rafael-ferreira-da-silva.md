@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rafael Ferreira da Silva - AIExScale 2025"
+title: "Dr. Rafael Ferreira da Silva - AIExScale 2025"
 ---
 
 # Rafael Ferreira da Silva
 
 <div style="display: flex; gap: 2rem; margin: 2rem 0;">
   <div style="flex-shrink: 0;">
-    <img src="../img/ferreira-da-silva.jpg" alt="Rafael Ferreira da Silva" style="width: 300px; height: 300px; object-fit: cover; border: 4px solid #333;">
+    <img src="../img/ferreira-da-silva.jpg" alt="Dr. Rafael Ferreira da Silva" style="width: 300px; height: 300px; object-fit: cover; border: 4px solid #333;">
   </div>
   <div style="flex: 1;">
     <h2>Biography</h2>

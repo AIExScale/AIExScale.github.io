@@ -22,10 +22,10 @@ This moderated discussion will engage all symposium speakers and participants in
 
 ## Speakers
 
-- [Ian Foster](/speakers/ian-foster) - Keynote Speaker
-- [Debbie Bard](/speakers/debbie-bard) - Invited Speaker
-- [Rafael Ferreira da Silva](/speakers/rafael-ferreira-da-silva) - Invited Speaker
-- [Katrin Heitmann](/speakers/katrin-heitmann) - Invited Speaker
+- [Dr. Ian Foster](/speakers/ian-foster) - Keynote Speaker
+- [Dr. Debbie Bard](/speakers/debbie-bard) - Invited Speaker
+- [Dr. Rafael Ferreira da Silva](/speakers/rafael-ferreira-da-silva) - Invited Speaker
+- [Dr. Katrin Heitmann](/speakers/katrin-heitmann) - Invited Speaker
 
 ## Moderators
 - [Orcun Yildiz](/speakers/orcun-yildiz) - Symposium Co-chair

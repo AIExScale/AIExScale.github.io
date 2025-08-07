@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Debbie Bard - AIExScale 2025"
+title: "Dr. Debbie Bard - AIExScale 2025"
 ---
 
 # Debbie Bard
 
 <div style="display: flex; gap: 2rem; margin: 2rem 0;">
   <div style="flex-shrink: 0;">
-    <img src="../img/bard.jpg" alt="Debbie Bard" style="width: 300px; height: 300px; object-fit: cover; border: 4px solid #333;">
+    <img src="../img/bard.jpg" alt="Dr. Debbie Bard" style="width: 300px; height: 300px; object-fit: cover; border: 4px solid #333;">
   </div>
   <div style="flex: 1;">
     <h2>Biography</h2>

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Ian Foster - AIExScale 2025"
+title: "Dr. Ian Foster - AIExScale 2025"
 ---
 
 # Ian Foster
 
 <div style="display: flex; gap: 2rem; margin: 2rem 0;">
   <div style="flex-shrink: 0;">
-    <img src="../img/foster.jpg" alt="Ian Foster" style="width: 300px; height: 300px; object-fit: cover; border: 4px solid #333;">
+    <img src="../img/foster.jpg" alt="Dr. Ian Foster" style="width: 300px; height: 300px; object-fit: cover; border: 4px solid #333;">
   </div>
   <div style="flex: 1;">
     <h2>Biography</h2>

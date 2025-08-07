@@ -5,7 +5,7 @@ title: "Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Arc
 
 # Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures?
 
-**Speaker:** [Debbie Bard](/speakers/debbie-bard)  
+**Speaker:** [Dr. Debbie Bard](/speakers/debbie-bard)  
 **Time:** 09:30 AM - 10:00 AM  
 **Session Type:** Invited Talk
 

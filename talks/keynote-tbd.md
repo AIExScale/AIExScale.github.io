@@ -5,7 +5,7 @@ title: "Keynote: TBD - AIExScale 2025"
 
 # Keynote: TBD
 
-**Speaker:** [Ian Foster](/speakers/ian-foster)  
+**Speaker:** [Dr. Ian Foster](/speakers/ian-foster)  
 **Time:** 08:35 AM - 09:30 AM  
 **Session Type:** Keynote
 
