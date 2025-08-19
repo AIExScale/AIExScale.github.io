@@ -35,7 +35,7 @@ The main goal of this workshop is to review the current efforts of AI workflows 
 ### 8:30 AM - Welcome
 <a href="/speakers/orcun-yildiz" class="speaker-name">Orcun Yildiz</a>, <a href="/speakers/loic-pottier" class="speaker-name">Loïc Pottier</a>
 
-### 8:35 AM - 09:30 AM - <a href="/talks/keynote-tbd">Keynote: TBD</a>
+### 8:35 AM - 09:30 AM - <a href="/talks/keynote-tbd">Keynote: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform</a>
 <a href="/speakers/ian-foster" class="speaker-name">Ian Foster</a>
 
 ### 09:30 AM - 10:00 AM - <a href="/talks/invited-talk-1">Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures?</a>

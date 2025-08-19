@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Keynote: TBD - AIExScale 2025"
+title: "Keynote: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform - AIExScale 2025"
 ---
 
-# Keynote: TBD
+# Keynote: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform
 
 **Speaker:** [Dr. Ian Foster](/speakers/ian-foster)  
 **Time:** 08:35 AM - 09:30 AM  
@@ -11,7 +11,7 @@ title: "Keynote: TBD - AIExScale 2025"
 
 ## Abstract
 
-TBD
+Trillion-parameter, science-tuned foundation models can speed discovery, but only inside an AI-native Scientific Discovery Platform (SDP) that connects models to tools, data, HPC, and robotics. I argue for community co-development of the SDP, via open interfaces, shared schedulers, knowledge substrates, provenance, and evaluation, alongside shared models. Early results suggest that such a co-designed stack can boost throughput and reliability in materials and bio workflows, enabling human–AI teams to turn knowledge into experiments and experiments into insight.
 
 ## Speaker Bio
 
