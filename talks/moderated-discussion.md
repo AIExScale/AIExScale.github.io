@@ -22,7 +22,7 @@ This moderated discussion will engage all symposium speakers and participants in
 
 ## Speakers
 
-- [Dr. Ian Foster](/speakers/ian-foster) - Keynote Speaker
+- [Dr. Ian Foster](/speakers/ian-foster) - Featured Speaker
 - [Dr. Debbie Bard](/speakers/debbie-bard) - Invited Speaker
 - [Dr. Rafael Ferreira da Silva](/speakers/rafael-ferreira-da-silva) - Invited Speaker
 - [Dr. Katrin Heitmann](/speakers/katrin-heitmann) - Invited Speaker

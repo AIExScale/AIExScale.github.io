@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Keynote: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform - AIExScale 2025"
+title: "Featured Speaker: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform - AIExScale 2025"
 ---
 
-# Keynote: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform
+# Featured Speaker: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform
 
 **Speaker:** [Dr. Ian Foster](/speakers/ian-foster)  
 **Time:** 08:35 AM - 09:30 AM  
-**Session Type:** Keynote
+**Session Type:** Featured Speaker
 
 ## Abstract
 
