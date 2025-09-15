@@ -6,7 +6,7 @@ title: "Featured Speaker: Trillion-Parameter Foundation Models as Discovery Acce
 # Featured Speaker: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform
 
 **Speaker:** [Dr. Ian Foster](/speakers/ian-foster)  
-**Time:** 08:35 AM - 09:30 AM  
+**Time:** 09:05 AM - 10:00 AM  
 **Session Type:** Featured Speaker
 
 ## Abstract

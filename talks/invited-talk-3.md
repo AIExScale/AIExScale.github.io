@@ -6,7 +6,7 @@ title: "Invited Talk: Intelligent Workflows at Scale: AI-Driven Exploration of C
 # Invited Talk: Intelligent Workflows at Scale: AI-Driven Exploration of Cosmological Simulations
 
 **Speaker:** [Dr. Katrin Heitmann](/speakers/katrin-heitmann)  
-**Time:** 11:00 AM - 11:30 AM  
+**Time:** 11:20 AM - 11:45 AM  
 **Session Type:** Invited Talk
 
 ## Abstract
