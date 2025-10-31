@@ -6,7 +6,7 @@ title: "Moderated Discussion - AIExScale 2025"
 # Moderated Discussion
 
 **Speakers:** All Symposium Speakers  
-**Time:** 11:45 AM - 12:25 PM  
+**Time:** 11:20 AM - 11:55 PM  
 **Session Type:** Moderated Discussion
 
 ## Session Description

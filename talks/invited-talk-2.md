@@ -6,7 +6,7 @@ title: "Invited Talk: AI-Ready Scientific Workflows at Scale: Bridging Data, Inf
 # Invited Talk: AI-Ready Scientific Workflows at Scale: Bridging Data, Infrastructure, and Automation
 
 **Speaker:** [Dr. Rafael Ferreira da Silva](/speakers/rafael-ferreira-da-silva)  
-**Time:** 10:55 AM - 11:20 AM  
+**Time:** 10:30 AM - 10:55 AM  
 **Session Type:** Invited Talk
 
 ## Abstract

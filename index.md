@@ -32,26 +32,26 @@ The main goal of this workshop is to review the current efforts of AI workflows 
 
 ## Program {#program}
 
-### 9:00 AM - Welcome
+### 8:30 AM - Welcome
 <a href="/speakers/orcun-yildiz" class="speaker-name">Orcun Yildiz</a>, <a href="/speakers/loic-pottier" class="speaker-name">Loïc Pottier</a>
 
-### 9:05 AM - 10:00 AM - <a href="/talks/keynote-tbd">Featured Speaker: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform</a>
+### 8:35 AM - 9:35 AM - <a href="/talks/keynote-tbd">Featured Speaker: Trillion-Parameter Foundation Models as Discovery Accelerators: Toward a Scientific Discovery Platform</a>
 <a href="/speakers/ian-foster" class="speaker-name">Ian Foster</a>
+
+### 09:35 AM - 10:00 AM - <a href="/talks/invited-talk-1">Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures?</a>
+<a href="/speakers/debbie-bard" class="speaker-name">Debbie Bard</a>
 
 ### 10:00 AM - 10:30 AM - Break
 
-### 10:30 AM - 10:55 AM - <a href="/talks/invited-talk-1">Invited Talk: How Complex AI Workflows Are Driving the Future of HPC Architectures?</a>
-<a href="/speakers/debbie-bard" class="speaker-name">Debbie Bard</a>
-
-### 10:55 AM - 11:20 AM - <a href="/talks/invited-talk-2">Invited Talk: AI-Ready Scientific Workflows at Scale: Bridging Data, Infrastructure, and Automation</a>
+### 10:30 AM - 10:55 AM - <a href="/talks/invited-talk-2">Invited Talk: AI-Ready Scientific Workflows at Scale: Bridging Data, Infrastructure, and Automation</a>
 <a href="/speakers/rafael-ferreira-da-silva" class="speaker-name">Rafael Ferreira da Silva</a>
 
-### 11:20 AM - 11:45 AM - <a href="/talks/invited-talk-3">Invited Talk: Intelligent Workflows at Scale: AI-Driven Exploration of Cosmological Simulations</a>
+### 10:55 AM - 11:20 AM - <a href="/talks/invited-talk-3">Invited Talk: Intelligent Workflows at Scale: AI-Driven Exploration of Cosmological Simulations</a>
 <a href="/speakers/katrin-heitmann" class="speaker-name">Katrin Heitmann</a>
 
-### 11:45 AM - 12:25 PM - <a href="/talks/moderated-discussion">Moderated Discussion</a>
+### 11:20 AM - 11:55 PM - <a href="/talks/moderated-discussion">Moderated Discussion</a>
 
-### 12:25 AM - Closing Remarks
+### 11:55 AM - Closing Remarks
 <a href="/speakers/orcun-yildiz" class="speaker-name">Orcun Yildiz</a>, <a href="/speakers/loic-pottier" class="speaker-name">Loïc Pottier</a>
 
 # Organization {#organization}
